@@ -223,4 +223,5 @@
     <color name="battery_usage_system_icon_color">?android:attr/textColorPrimary</color>
 
     <color name="user_crd_bg">@android:color/system_neutral1_0</color>
+    <color name="homepage_subicon_bg">?android:attr/colorAccent</color>
 </resources>
